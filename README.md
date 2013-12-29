@@ -17,3 +17,7 @@ For unknown URN schemes, like the DNS, we should ask another Gopher URN resolver
 * URN Resolver
  * [DNS as a URN Resolver](http://stackoverflow.com/questions/5476121/using-dns-as-a-urn-resolver)
  * [Finnish URN Resolver](http://www.nationallibrary.fi/publishers/urn.html)
+
+## Contributing Code
+* [QOTD Server](https://github.com/nixterrimus/node-qotd-server)
+* [Gopher Server](https://github.com/PastorGL/Gopher.js)
